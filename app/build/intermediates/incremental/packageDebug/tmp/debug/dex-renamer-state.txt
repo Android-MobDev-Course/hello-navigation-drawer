@@ -1,0 +1,4 @@
+#Sat Mar 14 17:28:34 CET 2020
+base.0=/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

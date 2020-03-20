@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/my_awesome_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize" />
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context="com.mobdev.multifragment.MainActivity"
+            tools:ignore="MergeRootFrame" >
+        </FrameLayout>
+        <!-- The navigation drawer -->
+
+        <LinearLayout
+            android:id="@+id/navigation_drawer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="@color/grey_white_1000"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/oddButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/listview_selector"
+                android:gravity="center"
+                android:text="Show Odd Numbers"
+                android:textColor="@color/primary" />
+
+            <Button
+                android:id="@+id/evenButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/listview_selector"
+                android:gravity="center"
+                android:text="Show Even Number"
+                android:textColor="@color/primary" />
+        </LinearLayout>
+    </androidx.drawerlayout.widget.DrawerLayout>
+
+</LinearLayout>

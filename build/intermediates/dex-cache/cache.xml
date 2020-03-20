@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_e180cf7856d2634495b43202b93d9ccd9d878fa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_39f4ed146f2cd520d7a66b8cef444d95e3662638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8d199da834dc31abeb7caa96f371d197bbe283db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_bf055893c7e0d350435a292fa3a184acbf39dc83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2f0795235fdd25ed3c4105ebee372473ad9c45b5.jar" />
+    </item>
+    <item
+        jar="/Users/marcopk/AndroidStudioProjects/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/marcopk/AndroidStudioProjects/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_ab713b0e8b5b1f95aca84d1d0fcb1bf4bb60af23.jar" />
+    </item>
+    <item
+        jar="/Users/marcopk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/marcopk/AndroidStudioProjects/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_bc8a71ccbb8c8337c9a451afac40c87b079cc3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_59cf1e3d4ad3861908f4dfc4910b13de8053c104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_3c38c7c469a005ae99107e486455c0ea6725a765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_e651802073d1bdfd7c815fb2833e486b18ef858d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4a7c82ff54257c266086ed611e95e6baca74f24e.jar" />
+    </item>
+    <item
+        jar="/Users/marcopk/AndroidStudioProjects/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/marcopk/AndroidStudioProjects/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_1dfe1b1998ddaa97c54dd23209bb42037ea0f60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_05151add845fd894eafd5ac2ea8bb4ff5aca95e4.jar" />
+    </item>
+    <item
+        jar="/Users/marcopk/AndroidStudioProjects/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/marcopk/AndroidStudioProjects/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_3e06cc1a1dd178c40229a32c79e466ba2b38b669.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_d0d83c539b810448d36685cfb6b92fb622d341f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_90adbaa98ec89d99b0b9d8726622c240c6d8f68a.jar" />
+    </item>
+    <item
+        jar="/Users/marcopk/AndroidStudioProjects/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/marcopk/AndroidStudioProjects/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_cb2232523c7179774871324355e21cf1fbc932ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_cca199d5709b84362e2c08fb8d198d0394296d42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_9e61bcf16c374bb1315be1845ac52bf542b4ea61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_bd3f3878ffdcaa9b893f96225dc6df291f1cd729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloNavigationDrawer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_22b34c44b840397cd7fe5403d5ae76282db28222.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_android.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-xxhdpi/ic_action_android.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_android.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-xhdpi/ic_action_android.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_android.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-mdpi/ic_action_android.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_action_toc.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-hdpi/ic_action_action_toc.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/layout_single_fragment_activity.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/layout/single_fragment_activity.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/layout_evennumber_listview_element.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/layout/evennumber_listview_element.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_maps_beenhere.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-xxhdpi/ic_maps_beenhere.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_action_toc.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-xxhdpi/ic_action_action_toc.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_maps_beenhere.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-xhdpi/ic_maps_beenhere.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_android.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-hdpi/ic_action_android.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/layout_listview_element.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/layout/listview_element.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_maps_beenhere.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-mdpi/ic_maps_beenhere.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/layout_random_number_fragment.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/layout/random_number_fragment.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/layout_navigation_drawer_layout.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/layout/navigation_drawer_layout.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/layout_oddnumber_listview_element.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/layout/oddnumber_listview_element.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_content_add_circle_outline.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-xxhdpi/ic_action_content_add_circle_outline.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_maps_beenhere.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-hdpi/ic_maps_beenhere.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable_circle.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable_listview_selector.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable/listview_selector.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/layout_main_activity_with_drawer.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/layout/main_activity_with_drawer.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/layout_info_fragment.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/layout/info_fragment.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_action_toc.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-mdpi/ic_action_action_toc.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/layout_history_fragment.xml.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/layout/history_fragment.xml"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_action_toc.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-xhdpi/ic_action_action_toc.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_content_add_circle_outline.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-hdpi/ic_action_content_add_circle_outline.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_content_add_circle_outline.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-xhdpi/ic_action_content_add_circle_outline.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_content_add_circle_outline.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/drawable-mdpi/ic_action_content_add_circle_outline.png"
+    },
+    {
+        "merged": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/marcopicone/Desktop/MobDev/HelloNavigationDrawer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello NavigationDrawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_info">Info</string>
+    <string name="i_am_a_fragment">Hello I am a Fragment !</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+
+</resources>
